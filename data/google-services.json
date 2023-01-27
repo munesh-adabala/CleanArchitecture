@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662791977567",
+    "project_id": "mfacedetector",
+    "storage_bucket": "mfacedetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662791977567:android:a725dd9fd2cb0bd713b9ea",
+        "android_client_info": {
+          "package_name": "com.code.data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662791977567-o93r63lsr6ggvm4kn4pmvl5li9o5dg6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6ZLzwKCupMxYMuyOnPdzNtVTUYdRSw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662791977567-o93r63lsr6ggvm4kn4pmvl5li9o5dg6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
